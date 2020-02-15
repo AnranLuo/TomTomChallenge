@@ -1,0 +1,36 @@
+Customer:  (__DICT__())
+String local_uid	//SHA1 hashed from email
+String name
+String phoneNumber
+String address
+String email //accountName
+String password
+List[]item shoppingCart
+
+Business:  (__DICT__())
+String local_uid	//SHA-1 hashed from email
+String name
+String phoneNumber
+String address
+String openTime
+enum Type {restaurant, groceryStore, charity, foodBank, company, others}
+String[] reviews
+Item[] posts
+
+item:  (__DICT__())
+String item_name
+String item_uid ==object id	//
+String business_uid
+String expire_time
+String allergy_info
+Int quantity
+Float price
+Boolean is_raw   //false if is cooked
+
+Order:  (__DICT__())
+String uid
+TimeStamp time
+String customer_id
+String business_id
+Item[] items
+Float totalPrice

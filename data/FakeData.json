@@ -1,0 +1,39 @@
+
+{"Customer":[
+{ "local_uid":"awepfohq9348ryqi3nc", "name":"Anran Luo", "phoneNumber":"6692566950", "address":"10355 Menhart Lane", "city":"Sunnyvale", "state":"California", "zip_code":"95014","email":"anranluo1015@gmail.com", "passward":"Lar768914125",
+	"shoppingCart":[
+	{"item_name":"Teriyaki Chicken Combo", "item_uid":"nacpiauwheviauh", "business_uid":"qpwoefujqwpef", "expire_time":"2020/2/15", "allergy_info":"NONE", "description":"Janpanese Teriyaki ton and orange juice.","catagory":["Japanese", "Meal"],"quantity":1, "price":4.99, "is_raw":true},
+	{"item_name":"Ninja Spicy Burito", "item_uid":"aidcbupp9grf", "business_uid":"ldncqofhqho", "expire_time":"2020/2/21", "allergy_info":"Red Bean included", "description":"Mexican classic food, with exclusive spicy sauce.","catagory":["Mexican", "Meal"],"quantity":2, "price":6.99, "is_raw":true}]},
+{ "local_uid":"andcijqpchkcaj", "name":"Orion Loh", "phoneNumber":"4072566950", "address":"467 Steven Creeks Boulevard", "city":"Cupertino", "state":"California", "zip_code":"95014", "email":"orionloh@hotmail.com", "passward":"Ol20200215",
+	"shoppingCart":[
+	{"item_name":"Teriyaki Chicken Combo", "item_uid":"akndcpaiubab", "business_uid":"cjpahacauibahgps", "expire_time":"2020/2/17", "allergy_info":"NONE", "description":"Janpanese Teriyaki ton and orange juice.","catagory":["Japanese", "Meal"],"quantity":3, "price":4.99, "is_raw":true},
+	{"item_name":"Unames California Burito", "item_uid":"nclavbpqabngbab", "business_uid":"cmlhoeuncvsf", "expire_time":"2020/2/27", "allergy_info":"Red Bean included", "description":"Mexican classic food, with exclusive spicy sauce, french fries, and cheese.","catagory":["Mexican", "Meal"],"quantity":1, "price":5.69, "is_raw":true}]},
+{ "local_uid":"ygnvtvuyccxcvj", "name":"Anna Prinston", "phoneNumber":"6677566050", "address":"1035 Norman Lane", "city":"San Jose", "state":"California", "zip_code":"95014", "email":"annaprinstonn@gmail.com", "passward":"anpr24125",
+	"shoppingCart":[
+	{"item_name":"Vietnamese Pho", "item_uid":"clurlhnwirubwo", "business_uid":"nucofwxerohmwl", "expire_time":"2020/3/1", "allergy_info":"NONE", "description":"Vietnamese classic Pho, with meant ball, brocali, and exlusive soup.","catagory":["Vietnamese", "Meal"],"quantity":5, "price":4.49, "is_raw":true},
+	{"item_name":"Brocoli", "item_uid":"cmaumocnoanfkj", "business_uid":"nvhjfsgqbalcnjn", "expire_time":"2020/2/19", "allergy_info":"NONE", "description":"Three big brocoli per pack.","catagory":["Vegetable"], "quantity":10, "price":0.29, "is_raw":false},
+	{"item_name":"Chipo Fajita Burito", "item_uid":"cmoaiufamufnauif", "business_uid":"cnaviubquahcajn", "expire_time":"2020/2/15", "allergy_info":"NONE", "description":"Mexican classic food, with onion, avocado, red rive, spicy sauce.","catagory":["Mexican", "Meal"], "quantity":1, "price":4.99, "is_raw":true}]},
+{ "local_uid":"cimhiorafnff", "name":"Tina Lang", "phoneNumber":"4688667104", "address":"52014 Tantau Drive", "city":"Saratoga", "state":"California", "zip_code":"95014","email":"tinalang0718@gmail.com", "passward":"lt8866741",
+	"shoppingCart":[
+	{"item_name":"Red King Miso Ramen", "item_uid":"nakdbcaoibcdj", "business_uid":"qadeufhawufhaf", "expire_time":"2020/2/19", "allergy_info":"NONE", "description":"Japanese classic food, with chasu and spicy miso.","catagory":["Japanese", "Meal"], "quantity":2, "price":7.99, "is_raw":true},
+	{"item_name":"Ninja Spicy Burito", "item_uid":"cniufhosiuhfai", "business_uid":"cisufhmiaufap", "expire_time":"2020/2/22", "allergy_info":"Red Bean", "description":"Mexican classic food, with exclusive spicy sauce","catagory":["Mexican", "Meal"],"quantity":5, "price":6.99, "is_raw":true}]},
+{ "local_uid":"cimhiorafnff", "name":"Kristy Kook", "phoneNumber":"4688667104", "address":"52014 Tantau Drive", "city":"Montain View", "state":"California", "zip_code":"95014","email":"Krisykook628@gmail.com", "passward":"kkook6741",
+  "shoppingCart":[
+	{"item_name":"Chicken Caesar Sauce Salad", "item_uid":"jdhdjdkjcuecj", "business_uid":"cniufhapisdfc", "expire_time":"2020/2/15", "allergy_info":"Peanut butter", "description":"Vegies with Caesar sauce and some chicken.","catagory":["Western", "Dessert"], "quantity":2, "price":1.99, "is_raw":false}]},
+{ "local_uid":"nqcuabsdbvalwi", "name":"Kristina Jackman", "phoneNumber":"4678007105", "address":"52098 Lorre Road", "city":"Redwood City", "state":"California", "zip_code":"95014", "email":"kristinajackman@yahoo.com", "passward":"krja1246741",
+  "shoppingCart":[
+  {"item_name":"Italian Spagetti", "item_uid":"oacunoanlsd", "business_uid":"ccnaisdhfilsdnfj", "expire_time":"2020/2/27", "allergy_info":"None", "description":"Italian classic food, With kektchup and meat ball.","catagory":["Italian", "Meal"], "quantity":1, "price":3.99, "is_raw":true}]},
+{ "local_uid":"cnlakdhfbaidcln", "name":"Yuki Kanada", "phoneNumber":"2037566070", "address":"17865 Normandy Court", "city":"San Francisco", "state":"California", "zip_code":"95014","email":"kanadayukiyama@hotmail.com", "passward":"tanayuki521",
+  "shoppingCart":[
+  {"item_name":"Deviled eggs", "item_uid":"ncflakdsnakfhf", "business_uid":"cnuashfklcjasndkq", "expire_time":"2020/2/16", "allergy_info":"NONE", "description":"Great wild egg with ham, parmesan crisp, harissa, chives.","catagory":["Franch", "Desert"],"quantity":4, "price":2.49, "is_raw":true},
+  {"item_name":"Carrot", "item_uid":"akdcadsncakjnc", "business_uid":"cmasdfakjndc", "expire_time":"2020/2/20", "allergy_info":"NONE", "description":"1 lb per pack.","catagory":["Vegetable"], "quantity":10, "price":0.59, "is_raw":false},
+  {"item_name":"Smoked King Salmon", "item_uid":"ncalsdhfajsdxc", "business_uid":"lasdnfjcalsdjk", "expire_time":"2020/2/18", "allergy_info":"NONE", "description":"Fresh salmon with avocado, hard boiled hen egg, watermelon radish, fried capers, toasted lavash.","catagory":["Franch", "Meal"], "quantity":1, "price":4.59, "is_raw":true}]},
+{ "local_uid":"bkjhfctrgdchng", "name":"Delica Garbacea", "phoneNumber":"6072469887", "address":"1057 Lauran Drive", "city":"San Mateo", "state":"California", "zip_code":"95014","email":"delicagarbacea@yahoo.com", "passward":"dlagbc798125",
+  "shoppingCart":[
+  {"item_name":"Cucumber", "item_uid":"ncadblanjchdf", "business_uid":"ncadhfnlacadf", "expire_time":"2020/2/16", "allergy_info":"NONE", "description":"Fresh Cucumber, 5 cucumber per pack","catagory":["Vegetable"],"quantity":3, "price":0.99, "is_raw":false},
+  {"item_name":"Celery", "item_uid":"acajdncaljdkhfn", "business_uid":"naiudhclanudkhfh", "expire_time":"2020/2/19", "allergy_info":"NONE", "description":"Fresh celery, 0.5 lb per pack.","catagory":["Vegetable"],"quantity":2, "price":0.49, "is_raw":false},
+  {"item_name":"Egg", "item_uid":"ncalkdhncald", "business_uid":"mcaudnjcajdrf", "expire_time":"2020/2/27", "allergy_info":"NONE", "description":"12 egg per pack","catagory":["Eggs"],"quantity":3, "price":0.99, "is_raw":false},
+  {"item_name":"Rice noodles", "item_uid":"cajenfcalkdjfh", "business_uid":"nclkadhflankjsdnc", "expire_time":"2020/2/18", "allergy_info":"NONE", "description":"1 lb per pack","catagory":["Asian"],"quantity":3, "price":0.79, "is_raw":false},]},
+
+]}
+
